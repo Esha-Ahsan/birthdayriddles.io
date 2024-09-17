@@ -1,0 +1,4254 @@
+{
+    "01-01": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "By what name is Carlos Estevez better known? ",
+        "correct_answer": "Charlie Sheen",
+        "incorrect_answers": [
+            "Ricky Martin",
+            "Bruno Mars",
+            "Joaquin Phoenix"
+        ]
+    },
+    "01-02": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "How old was Muhammad Ali when he died?",
+        "correct_answer": "74",
+        "incorrect_answers": [
+            "61",
+            "He&#039;s still alive",
+            "56"
+        ]
+    },
+    "01-03": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Who is &quot;James Rolfe&quot; better known as?",
+        "correct_answer": "The Angry Video Game Nerd",
+        "incorrect_answers": [
+            "TotalBiscuit",
+            "PeanutButterGamer",
+            "PewDiePie"
+        ]
+    },
+    "01-04": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Aubrey Graham is better known as",
+        "correct_answer": "Drake",
+        "incorrect_answers": [
+            "Travis Scott",
+            "Lil Wayne",
+            "2 Chainz"
+        ]
+    },
+    "01-05": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which television show has Dan Gheesling been on?",
+        "correct_answer": "Big Brother",
+        "incorrect_answers": [
+            "Jeopardy",
+            "Survivor",
+            "The Bachelor"
+        ]
+    },
+    "01-06": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Gabe Newell was born in which year?",
+        "correct_answer": "1962 ",
+        "incorrect_answers": [
+            "1970",
+            "1960",
+            "1972"
+        ]
+    },
+    "01-07": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What is generally considered to be William Shakespeare&#039;s birth date?",
+        "correct_answer": "April 23rd, 1564",
+        "incorrect_answers": [
+            "July 4th, 1409",
+            "September 29th, 1699",
+            "December 1st, 1750"
+        ]
+    },
+    "01-08": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which radio personality calls himself &quot;The King of All Media&quot;?",
+        "correct_answer": "Howard Stern",
+        "incorrect_answers": [
+            "Rush Limbaugh",
+            "Pete Tong",
+            "Ryan Seacrest"
+        ]
+    },
+    "01-09": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "What does film maker Dan Bell typically focus his films on?",
+        "correct_answer": "Abandoned Buildings and Dead Malls",
+        "incorrect_answers": [
+            "Historic Landmarks",
+            "Action Films",
+            "Documentaries "
+        ]
+    },
+    "01-10": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "How much weight did Chris Pratt lose for his role as Star-Lord in &quot;Guardians of the Galaxy&quot;?",
+        "correct_answer": "60 lbs",
+        "incorrect_answers": [
+            "30 lbs",
+            "50 lbs",
+            "70 lbs"
+        ]
+    },
+    "01-11": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Where was Kanye West born?",
+        "correct_answer": "Atlanta, Georgia",
+        "incorrect_answers": [
+            "Chicago, Illinois",
+            "Los Angeles, California",
+            "Detroit, Michigan"
+        ]
+    },
+    "01-12": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Tupac Shakur died due to complications from being stabbed in 1996.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "01-13": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which of these people is NOT a part of the Internet comedy group Mega64?",
+        "correct_answer": "Jon Jafari",
+        "incorrect_answers": [
+            "Rocco Botte",
+            "Derrick Acosta",
+            "Shawn Chatfield"
+        ]
+    },
+    "01-14": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What year was O.J. Simpson aquitted of his murder charges?",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+            "1992",
+            "1996",
+            "1991"
+        ]
+    },
+    "01-15": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Who was Donald Trump&#039;s first wife?",
+        "correct_answer": "Ivana Zeln&iacute;čkov&aacute;",
+        "incorrect_answers": [
+            "Melania Knauss",
+            "Marla Maples",
+            "Nancy Davis"
+        ]
+    },
+    "01-16": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Michael Jackson had a pet python named &lsquo;Crusher&rsquo;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "01-17": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Who out of these actresses is the youngest?",
+        "correct_answer": "Kiernan Shipka",
+        "incorrect_answers": [
+            "Ariel Winter",
+            "Emma Watson",
+            "Bonnie Wright"
+        ]
+    },
+    "01-18": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Nikki Diamond portrayed which Gladiator in the 1992 TV show &quot;Gladiators&quot;?",
+        "correct_answer": "Scorpio",
+        "incorrect_answers": [
+            "Jet",
+            "Nightshade",
+            "Falcon"
+        ]
+    },
+    "01-19": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Which school in Surrey, England did Steve Backshall attend?",
+        "correct_answer": "Collingwood College",
+        "incorrect_answers": [
+            "Tomlinscote School",
+            "Kings International College",
+            "Lyndhurst School"
+        ]
+    },
+    "01-20": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Which celebrity announced his presidency in 2015?",
+        "correct_answer": "Kanye West",
+        "incorrect_answers": [
+            "Donald Trump",
+            "Leonardo DiCaprio",
+            "Miley Cyrus"
+        ]
+    },
+    "01-21": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What caused Jake Lloyd who played Anakin Skywalker in The Phantom Menace to quit acting?",
+        "correct_answer": "Bullying",
+        "incorrect_answers": [
+            "Criminal Record",
+            "Nomination for Worst Actor",
+            "Racism"
+        ]
+    },
+    "01-22": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "What was James Coburn&#039;s last film role before his death?",
+        "correct_answer": "American Gun",
+        "incorrect_answers": [
+            "Monsters Inc",
+            "Texas Rangers",
+            "Snow Dogs"
+        ]
+    },
+    "01-23": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "In what year did &quot;Bob Ross&quot; die?",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+            "1986",
+            "1989",
+            "1997"
+        ]
+    },
+    "01-24": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Donald J. Trump&#039;s Middle Name is...",
+        "correct_answer": "John",
+        "incorrect_answers": [
+            "Jeff",
+            "Jerald",
+            "Jason"
+        ]
+    },
+    "01-25": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Which actress married Michael Douglas in 2000?",
+        "correct_answer": "Catherine Zeta-Jones",
+        "incorrect_answers": [
+            "Ruth Jones",
+            "Pam Ferris",
+            "Sara Sugarman"
+        ]
+    },
+    "01-26": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "How tall is Tom Cruise?",
+        "correct_answer": "5&prime; 7&Prime;",
+        "incorrect_answers": [
+            "5&prime; 9&Prime;",
+            "5&prime; 4&Prime;",
+            "5&prime; 5&Prime;"
+        ]
+    },
+    "01-27": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "By which name is Ramon Estevez better known as?",
+        "correct_answer": "Martin Sheen",
+        "incorrect_answers": [
+            "Charlie Sheen",
+            "Ramon Sheen",
+            "Emilio Estevez"
+        ]
+    },
+    "01-28": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What was the cause of death for Freddie Mercury?",
+        "correct_answer": "Pneumonia",
+        "incorrect_answers": [
+            "Stomach Cancer",
+            "HIV",
+            "Brain Hemorrhage"
+        ]
+    },
+    "01-29": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "The eccentric natural philosopher Tycho Brahe kept what as a pet?",
+        "correct_answer": "Moose",
+        "incorrect_answers": [
+            "Dog",
+            "Bear",
+            "Goat"
+        ]
+    },
+    "01-30": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which of these celebrities was not a member of the Jackson 5?",
+        "correct_answer": "Bo Jackson",
+        "incorrect_answers": [
+            "Tito Jackson",
+            "Jermaine Jackson",
+            "Marlon Jackson"
+        ]
+    },
+    "01-31": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Neil Hamburger is played by which comedian?",
+        "correct_answer": "Gregg Turkington",
+        "incorrect_answers": [
+            "Nathan Fielder",
+            "Tim Heidecker",
+            "Todd Glass"
+        ]
+    },
+    "02-01": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which actress&#039;s real name was Frances Ethel Gumm?",
+        "correct_answer": "Judy Garland",
+        "incorrect_answers": [
+            "Doris Day",
+            "Julie Andrews",
+            "Marilyn Monroe"
+        ]
+    },
+    "02-02": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "What was the cause of Marilyn Monroes suicide?",
+        "correct_answer": "Drug Overdose",
+        "incorrect_answers": [
+            "Knife Attack",
+            "House Fire",
+            "Gunshot"
+        ]
+    },
+    "02-03": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "If he was still alive, in what year would Elvis Presley celebrate his 100th birthday?",
+        "correct_answer": "2035",
+        "incorrect_answers": [
+            "2030",
+            "2040",
+            "2045"
+        ]
+    },
+    "02-04": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Billy Herrington is from which US state?",
+        "correct_answer": "New York",
+        "incorrect_answers": [
+            "Arizona",
+            "California",
+            "Georgia"
+        ]
+    },
+    "02-05": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",
+        "correct_answer": "The Party",
+        "incorrect_answers": [
+            "The Weather Girls",
+            "The Pussycat Dolls",
+            "The Cheetah Girls"
+        ]
+    },
+    "02-06": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which famous New York Yankees outfielder did Marilyn Monroe marry?",
+        "correct_answer": "Joe DiMaggio",
+        "incorrect_answers": [
+            "Tino Martinez",
+            "Babe Ruth",
+            "Mason Williams"
+        ]
+    },
+    "02-07": {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Lady Gaga&#039;s real name is Stefani Joanne Angelina Germanotta.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "02-08": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Gwyneth Paltrow has a daughter named...?",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+            "Lily",
+            "French",
+            "Dakota"
+        ]
+    },
+    "02-09": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What is Doug Walker&#039;s YouTube name?",
+        "correct_answer": "The Nostalgia Critic",
+        "incorrect_answers": [
+            "The Angry Video Game Nerd",
+            "AngryJoeShow",
+            "The Cinema Snob"
+        ]
+    },
+    "02-10": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+        "correct_answer": "Bing Crosby",
+        "incorrect_answers": [
+            "Elvis Presley",
+            "Charlie Chaplin",
+            "Groucho Marx"
+        ]
+    },
+    "02-11": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "What was the religion of famous singer &quot;Freddie Mercury&quot;?",
+        "correct_answer": "Zoroastrianism",
+        "incorrect_answers": [
+            "Paganism",
+            "Ashurism",
+            "Judaism"
+        ]
+    },
+    "02-12": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What was the name of Marilyn Monroe&#039;s first husband?",
+        "correct_answer": "James Dougherty",
+        "incorrect_answers": [
+            "Joe Dimaggio",
+            "Kirk Douglas",
+            "Arthur Miller"
+        ]
+    },
+    "02-13": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "In which of these TV shows did the chef Gordon Ramsay not appear?",
+        "correct_answer": "Auction Hunters",
+        "incorrect_answers": [
+            "Ramsay&#039;s Kitchen Nightmares",
+            "Hotel Hell",
+            "Hell&#039;s Kitchen"
+        ]
+    },
+    "02-14": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which TV chef wrote an autobiography titled &quot;Humble Pie&quot;?",
+        "correct_answer": "Gordon Ramsay",
+        "incorrect_answers": [
+            "Jamie Oliver",
+            "Ainsley Harriott",
+            "Antony Worrall Thompson"
+        ]
+    },
+    "02-15": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Paul McCartney has always used his middle name. What is his real first name? ",
+        "correct_answer": "James",
+        "incorrect_answers": [
+            "John",
+            "Jack",
+            "Justin"
+        ]
+    },
+    "02-16": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "When was Elvis Presley born?",
+        "correct_answer": "January 8, 1935",
+        "incorrect_answers": [
+            "December 13, 1931",
+            "July 18, 1940",
+            "April 17, 1938"
+        ]
+    },
+    "02-17": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Named after a character he played in a 1969 film, what is the name of the ski resort in Utah that Robert Redford bought in 1968?",
+        "correct_answer": "Sundance",
+        "incorrect_answers": [
+            "Woodward",
+            "Turner",
+            "Booker"
+        ]
+    },
+    "02-18": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Marilyn Monroe was born on July 1, 1926.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "02-19": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What year did radio icon Howard Stern start a job at radio station WNBC?",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+            "1985",
+            "1984",
+            "1995"
+        ]
+    },
+    "02-20": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "About how much money did it cost for Tommy Wiseau to make his masterpiece &quot;The Room&quot; (2003)?",
+        "correct_answer": "$6 Million",
+        "incorrect_answers": [
+            "$20,000",
+            "$1 Million",
+            "$10 Million"
+        ]
+    },
+    "02-21": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who did the score to the original Blade Runner?",
+        "correct_answer": "Vangelis",
+        "incorrect_answers": [
+            "Kitaro",
+            "Yanni",
+            "Enya"
+        ]
+    },
+    "02-22": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the main protagonist?",
+        "correct_answer": "Jimmy Cooper",
+        "incorrect_answers": [
+            "Pete Townshend",
+            "Franc Roddam",
+            "Archie Bunker"
+        ]
+    },
+    "02-23": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?",
+        "correct_answer": "Thinking Machines CM-5",
+        "incorrect_answers": [
+            "Cray X-MP",
+            "Cray XK7",
+            "IBM Blue Gene/Q"
+        ]
+    },
+    "02-24": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "When was the movie &#039;Con Air&#039; released?",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+            "1985",
+            "1999",
+            "1990"
+        ]
+    },
+    "02-25": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In the &quot;Jurassic Park&quot; universe, what was the first dinosaur cloned by InGen in 1986?",
+        "correct_answer": "Velociraptor",
+        "incorrect_answers": [
+            "Triceratops",
+            "Troodon",
+            "Brachiosaurus"
+        ]
+    },
+    "02-26": {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "02-27": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 1984 movie &quot;The Terminator&quot;, what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+        "correct_answer": "T-800",
+        "incorrect_answers": [
+            "I-950",
+            "T-888",
+            "T-1000"
+        ]
+    },
+    "02-28": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What film did James Cameron&#039;s Avatar dethrone as the highest-grossing film ever?",
+        "correct_answer": "Titanic",
+        "incorrect_answers": [
+            "Star Wars",
+            "Gone with the Wind",
+            "Jaws"
+        ]
+    },
+    "02-29": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?",
+        "correct_answer": "50 mph",
+        "incorrect_answers": [
+            "60 mph",
+            "40 mph",
+            "70 mph"
+        ]
+    },
+    "03-01": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What was the first feature-length computer-animated movie?",
+        "correct_answer": "Toy Story",
+        "incorrect_answers": [
+            "Tron",
+            "Lion king",
+            "101 Dalmatians"
+        ]
+    },
+    "03-02": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "The 2010 film &quot;The Social Network&quot; is a biographical drama film about MySpace founder Tom Anderson.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "03-03": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is Lilo&#039;s last name from Lilo and Stitch?",
+        "correct_answer": "Pelekai",
+        "incorrect_answers": [
+            "Anoaʻi",
+            "Kealoha",
+            "Kuʻulei"
+        ]
+    },
+    "03-04": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What city did the monster attack in the film, &quot;Cloverfield&quot;?",
+        "correct_answer": "New York, New York",
+        "incorrect_answers": [
+            "Las Vegas, Nevada",
+            "Chicago, Illinois",
+            "Orlando, Florida"
+        ]
+    },
+    "03-05": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the movie The Revenant, DiCaprio&#039;s character hunts down the killer of his son.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "03-06": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "For the film &quot;Raiders of The Lost Ark&quot;, what was Harrison Ford sick with during the filming of the Cairo chase?",
+        "correct_answer": "Dysentery",
+        "incorrect_answers": [
+            "Anemia",
+            "Constipation",
+            "Acid Reflux "
+        ]
+    },
+    "03-07": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+        "correct_answer": "Max Payne",
+        "incorrect_answers": [
+            "Alan Wake",
+            "Hitman",
+            "God Of War"
+        ]
+    },
+    "03-08": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which actor played the main character in the 1990 film &quot;Edward Scissorhands&quot;?",
+        "correct_answer": "Johnny Depp",
+        "incorrect_answers": [
+            " Clint Eastwood",
+            "Leonardo DiCaprio",
+            "Ben Stiller"
+        ]
+    },
+    "03-09": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+        "correct_answer": "Plan 9 from Outer Space",
+        "incorrect_answers": [
+            "The Man from Planet X",
+            "It Came from Outer Space",
+            "The Day The Earth Stood Still"
+        ]
+    },
+    "03-10": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the movie &quot;V for Vendetta,&quot; what is the date that masked vigilante &quot;V&quot; urges people to remember?",
+        "correct_answer": "November 5th",
+        "incorrect_answers": [
+            "November 6th",
+            "November 4th",
+            "September 5th"
+        ]
+    },
+    "03-11": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Actor Tommy Chong served prison time.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "03-12": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "This movie contains the quote, &quot;I love the smell of napalm in the morning!&quot;",
+        "correct_answer": "Apocalypse Now",
+        "incorrect_answers": [
+            "Platoon",
+            "The Deer Hunter",
+            "Full Metal Jacket"
+        ]
+    },
+    "03-13": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "03-14": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the movie &quot;Blade Runner&quot;, what is the term used for human-like androids ?",
+        "correct_answer": "Replicants",
+        "incorrect_answers": [
+            "Cylons",
+            "Synthetics",
+            "Skinjobs"
+        ]
+    },
+    "03-15": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "The film &quot;2001: A Space Odyssey&quot; was released on December 31st, 2000.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "03-16": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?",
+        "correct_answer": "Jim Stark",
+        "incorrect_answers": [
+            "Ned Stark",
+            "Jim Kane",
+            "Frank Stark"
+        ]
+    },
+    "03-17": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+        "correct_answer": "Highlander",
+        "incorrect_answers": [
+            "Flash Gordon",
+            "Labyrinth",
+            "Howard the Duck"
+        ]
+    },
+    "03-18": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Where does the original Friday The 13th movie take place?",
+        "correct_answer": "Camp Crystal Lake",
+        "incorrect_answers": [
+            "Packanack",
+            "Higgins Haven",
+            "Camp Forest Green"
+        ]
+    },
+    "03-19": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Darth Vader&#039;s famous reveal to Luke is iconic. But which of these is the right one?",
+        "correct_answer": "&quot;No. I am your father.&quot;",
+        "incorrect_answers": [
+            "&quot;Luke, I am your father.&quot;",
+            "&quot;You&#039;re wrong. I am your father.&quot;",
+            "&quot;The truth is that I am your father.&quot;"
+        ]
+    },
+    "03-20": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the robot in the 1951 science fiction film classic &#039;The Day the Earth Stood Still&#039;?",
+        "correct_answer": "Gort",
+        "incorrect_answers": [
+            "Robby",
+            "Colossus",
+            "Box"
+        ]
+    },
+    "03-21": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?",
+        "correct_answer": "The Vikings ",
+        "incorrect_answers": [
+            "The Long Ships",
+            "Prince Valiant",
+            "Spartacus"
+        ]
+    },
+    "03-22": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+        "correct_answer": "Groovy.",
+        "incorrect_answers": [
+            "Gnarly.",
+            "Perfect.",
+            "Nice."
+        ]
+    },
+    "03-23": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",
+        "correct_answer": "The Muppets Take Manhattan",
+        "incorrect_answers": [
+            "The Great Muppet Caper",
+            "The Muppet Christmas Carol",
+            "The Muppet Movie"
+        ]
+    },
+    "03-24": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the first &quot;Star Wars&quot; film by release order?",
+        "correct_answer": "A New Hope",
+        "incorrect_answers": [
+            "The Phantom Menace",
+            "The Force Awakens",
+            "Revenge of the Sith"
+        ]
+    },
+    "03-25": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
+        "correct_answer": "Fight Club",
+        "incorrect_answers": [
+            "The Island",
+            "Unthinkable",
+            "American Pie"
+        ]
+    },
+    "03-26": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who played Deputy Marshal Samuel Gerard in the 1993 film &quot;The Fugitive&quot;?",
+        "correct_answer": "Tommy Lee Jones",
+        "incorrect_answers": [
+            "Harrison Ford",
+            "Harvey Keitel",
+            "Martin Landau"
+        ]
+    },
+    "03-27": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which musical artist had a prominent role in the 2017 film &quot;Kingsman: The Golden Circle&quot;?",
+        "correct_answer": "Elton John",
+        "incorrect_answers": [
+            "Lady Gaga",
+            "Rihanna",
+            "Justin Bieber"
+        ]
+    },
+    "03-28": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the Super Mario Bros. Movie (2023), who plays Toad?",
+        "correct_answer": "Keegan-Michael Key",
+        "incorrect_answers": [
+            "Seth Rogan",
+            "Charlie Day",
+            "Jack Black"
+        ]
+    },
+    "03-29": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What was the first James Bond film?",
+        "correct_answer": "Dr. No",
+        "incorrect_answers": [
+            "Goldfinger",
+            "From Russia With Love",
+            "Thunderball"
+        ]
+    },
+    "03-30": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 2014 film &quot;Birdman&quot;, what is the primary instrument in the score?",
+        "correct_answer": "Drums",
+        "incorrect_answers": [
+            "Saxophone",
+            "Violin",
+            "Actual Live Birds Singing"
+        ]
+    },
+    "03-31": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In Star Wars, what&#039;s the name of the new Government created after the defeat of the Galactic Empire?",
+        "correct_answer": "The New Republic",
+        "incorrect_answers": [
+            "The Rebel Alliance",
+            "The Crimson Dawn",
+            "The First Order"
+        ]
+    },
+    "04-01": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What was the name of the planet in &quot;Aliens&quot;?",
+        "correct_answer": "LV-426",
+        "incorrect_answers": [
+            "Weyland Yutani Corporation Base",
+            "FR-838",
+            "DI-621"
+        ]
+    },
+    "04-02": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What year did the James Cameron film &quot;Titanic&quot; come out in theaters?",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+            "1996",
+            "1998",
+            "1999"
+        ]
+    },
+    "04-03": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which of the following films was NOT directed by Quentin Tarantino?",
+        "correct_answer": "From Dusk till Dawn",
+        "incorrect_answers": [
+            "Jackie Brown",
+            "Pulp Fiction",
+            "Reservoir Dogs"
+        ]
+    },
+    "04-04": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What did Alfred Hitchcock use as blood in the film &quot;Psycho&quot;? ",
+        "correct_answer": "Chocolate syrup",
+        "incorrect_answers": [
+            "Ketchup",
+            "Red food coloring",
+            "Maple syrup"
+        ]
+    },
+    "04-05": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In Mulan (1998), who is the leader of the Huns?",
+        "correct_answer": "Shan Yu",
+        "incorrect_answers": [
+            "Chien-Po",
+            "Li Shang",
+            "Fa Zhou"
+        ]
+    },
+    "04-06": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+        "correct_answer": "Dave",
+        "incorrect_answers": [
+            "John",
+            "Will",
+            "Carl"
+        ]
+    },
+    "04-07": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which iconic character is featured in movies such as &quot;The Enforcer&quot;, &quot;Sudden Impact&quot;, and &quot;The Dead Pool&quot;?",
+        "correct_answer": "Dirty Harry",
+        "incorrect_answers": [
+            "Indiana Jones",
+            "James Bond",
+            "Harry Potter"
+        ]
+    },
+    "04-08": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "&quot;Foodfight!&quot; earned less than $80,000 at box office.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "04-09": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What breed of dog was Marley in the film &quot;Marley &amp; Me&quot; (2008)?",
+        "correct_answer": "Labrador Retriever",
+        "incorrect_answers": [
+            "Golden Retriever",
+            "Dalmatian",
+            "Shiba Inu"
+        ]
+    },
+    "04-10": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "How many zeros are there in a googol?",
+        "correct_answer": "100",
+        "incorrect_answers": [
+            "10",
+            "1,000",
+            "1,000,000"
+        ]
+    },
+    "04-11": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "The decimal number 31 in hexadecimal would be what?",
+        "correct_answer": "1F",
+        "incorrect_answers": [
+            "3D",
+            "2E",
+            "1B"
+        ]
+    },
+    "04-12": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "What is the approximate value of mathematical constant e?",
+        "correct_answer": "2.72",
+        "incorrect_answers": [
+            "3.14",
+            "1.62",
+            "1.41"
+        ]
+    },
+    "04-13": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "What is the derivative of Acceleration with respect to time?",
+        "correct_answer": "Jerk",
+        "incorrect_answers": [
+            "Shift",
+            "Bump",
+            "Slide"
+        ]
+    },
+    "04-14": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What are the first 6 digits of the number &quot;Pi&quot;?",
+        "correct_answer": "3.14159",
+        "incorrect_answers": [
+            "3.14169",
+            "3.12423",
+            "3.25812"
+        ]
+    },
+    "04-15": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What is the symbol for Displacement?",
+        "correct_answer": "&Delta;r",
+        "incorrect_answers": [
+            "dr",
+            "Dp",
+            "r"
+        ]
+    },
+    "04-16": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "The set of all algebraic numbers is countable.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "04-17": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "How many books are in Euclid&#039;s Elements of Geometry?",
+        "correct_answer": "13",
+        "incorrect_answers": [
+            "8",
+            "10",
+            "17"
+        ]
+    },
+    "04-18": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "An isosceles triangle has two sides of equal length as opposed to three.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "04-19": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "How many Millibars (mbar) to 1 Inch of Mercury (inHg)",
+        "correct_answer": "33.9",
+        "incorrect_answers": [
+            "30.0",
+            "27.4",
+            "10.6"
+        ]
+    },
+    "04-20": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "What is the plane curve proposed by Descartes to challenge Fermat&#039;s extremum-finding techniques called?",
+        "correct_answer": "Folium of Descartes",
+        "incorrect_answers": [
+            "Elliptic Paraboloid of Descartes",
+            "Cartesian Coordinates",
+            "Descarte&#039;s Helicoid"
+        ]
+    },
+    "04-21": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "A universal set, or a set that contains all sets, exists.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "04-22": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "To the nearest whole number, how many radians are in a whole circle?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    "04-23": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "Zero factorial is equal to zero. ",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "04-24": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "How many zeptometres are inside one femtometre?",
+        "correct_answer": "1,000,000",
+        "incorrect_answers": [
+            "10",
+            "1,000,000,000",
+            "1000"
+        ]
+    },
+    "04-25": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "A scalene triangle has two sides of equal length.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "04-26": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "The French mathematician &Eacute;variste Galois is primarily known for his work in which?",
+        "correct_answer": "Galois Theory",
+        "incorrect_answers": [
+            "Galois&#039; Continued Fractions",
+            "Galois&#039; Method for PDE&#039;s ",
+            "Abelian Integration"
+        ]
+    },
+    "04-27": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "E = MC3",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "04-28": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What Greek letter is used to signify summation?",
+        "correct_answer": "Sigma",
+        "incorrect_answers": [
+            "Delta",
+            "Alpha",
+            "Omega"
+        ]
+    },
+    "04-29": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What is the Roman numeral for 500?",
+        "correct_answer": "D",
+        "incorrect_answers": [
+            "L",
+            "C",
+            "X"
+        ]
+    },
+    "04-30": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What prime number comes next after 19?",
+        "correct_answer": "23",
+        "incorrect_answers": [
+            "25",
+            "21",
+            "27"
+        ]
+    },
+    "05-01": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What type of function is x&sup2;+2x+1?",
+        "correct_answer": "Quadratic",
+        "incorrect_answers": [
+            "Rational",
+            "Linear",
+            "Exponential"
+        ]
+    },
+    "05-02": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "In the hexadecimal system, what number comes after 9?",
+        "correct_answer": "The Letter A",
+        "incorrect_answers": [
+            "10",
+            "The Number 0",
+            "16"
+        ]
+    },
+    "05-03": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What shape does sin(x) or cos(x) make on a graph?",
+        "correct_answer": "Waves",
+        "incorrect_answers": [
+            "A Parabola",
+            "A Straight Line",
+            "Zig-Zags"
+        ]
+    },
+    "05-04": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?",
+        "correct_answer": "90",
+        "incorrect_answers": [
+            "180",
+            "270",
+            "0"
+        ]
+    },
+    "05-05": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "Which mathematician refused the Fields Medal?",
+        "correct_answer": "Grigori Perelman",
+        "incorrect_answers": [
+            "Andrew Wiles",
+            "Terence Tao",
+            "Edward Witten"
+        ]
+    },
+    "05-06": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "You can square root a negative number with an imaginary number &quot;i&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "05-07": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What is the first Mersenne prime exponent over 1000?",
+        "correct_answer": "1279",
+        "incorrect_answers": [
+            "2203",
+            "1009",
+            "1069"
+        ]
+    },
+    "05-08": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "The &#039;Squaring the Circle&#039; problem is solvable.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "05-09": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "How many sides does a trapezium have?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "3",
+            "5",
+            "6"
+        ]
+    },
+    "05-10": {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "The binary number &quot;101001101&quot; is equivalent to the Decimal number &quot;334&quot;",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "05-11": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "05-12": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "Which of the following famous mathematicians died in a duel at the age of 20?",
+        "correct_answer": "Galois",
+        "incorrect_answers": [
+            "Abel",
+            "Euler",
+            "Gauss"
+        ]
+    },
+    "05-13": {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "L&#039;H&ocirc;pital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "05-14": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "What is the smallest number that can be expressed as the sum of two positive cubes in two different ways?",
+        "correct_answer": "1729",
+        "incorrect_answers": [
+            "91",
+            "561",
+            "4104"
+        ]
+    },
+    "05-15": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "An equilateral triangle always has every angle measuring 60&deg;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "05-16": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "Which of the following dice is not a platonic solid?",
+        "correct_answer": "10-sided die",
+        "incorrect_answers": [
+            "12-sided die",
+            "20-sided die",
+            "8-sided die"
+        ]
+    },
+    "05-17": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "What is the fourth digit of &pi;?",
+        "correct_answer": "1",
+        "incorrect_answers": [
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "05-18": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "The sum of any two odd integers is odd.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "05-19": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "Which of these numbers is closest to the total number of possible states for an army standard Enigma Machine?",
+        "correct_answer": "1.58 x 10^20",
+        "incorrect_answers": [
+            "1.58 x 10^22",
+            "1.58 x  10^18",
+            "1.58 x 10^24"
+        ]
+    },
+    "05-20": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "The proof for the Chinese Remainder Theorem used in Number Theory was NOT developed by its first publisher, Sun Tzu.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "05-21": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What is the correct order of operations for solving equations?",
+        "correct_answer": "Parentheses, Exponents, Multiplication, Division, Addition, Subtraction",
+        "incorrect_answers": [
+            "Addition, Multiplication, Division, Subtraction, Addition, Parentheses",
+            "Parentheses, Exponents, Addition, Substraction, Multiplication, Division",
+            "The order in which the operations are written."
+        ]
+    },
+    "05-22": {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "In Topology, the complement of an open set is a closed set.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "05-23": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "The Pythagorean theorem states that the square of the hypotenuse is equal to the product of the squares of the other two sides.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "05-24": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What is the alphanumeric representation of the imaginary number?",
+        "correct_answer": "i",
+        "incorrect_answers": [
+            "e",
+            "n",
+            "x"
+        ]
+    },
+    "05-25": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "The metric prefix &quot;atto-&quot; makes a measurement how much smaller than the base unit?",
+        "correct_answer": "One Quintillionth",
+        "incorrect_answers": [
+            "One Billionth",
+            "One Quadrillionth",
+            "One Septillionth"
+        ]
+    },
+    "05-26": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What&#039;s the square root of 49?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "4",
+            "12",
+            "9"
+        ]
+    },
+    "05-27": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "The notion of a &quot;set that contains all sets which do not contain themselves&quot; is a paradoxical idea attributed to which English philospher?",
+        "correct_answer": "Bertrand Russel",
+        "incorrect_answers": [
+            "Francis Bacon",
+            "John Locke",
+            "Alfred North Whitehead"
+        ]
+    },
+    "05-28": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "A &#039;Millinillion&#039; is a real number.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "05-29": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "In Roman Numerals, what does XL equate to?",
+        "correct_answer": "40",
+        "incorrect_answers": [
+            "60",
+            "15",
+            "90"
+        ]
+    },
+    "05-30": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "By which name is Ramon Estevez better known as?",
+        "correct_answer": "Martin Sheen",
+        "incorrect_answers": [
+            "Charlie Sheen",
+            "Ramon Sheen",
+            "Emilio Estevez"
+        ]
+    },
+    "05-31": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which of these celebrities was not a member of the Jackson 5?",
+        "correct_answer": "Bo Jackson",
+        "incorrect_answers": [
+            "Tito Jackson",
+            "Jermaine Jackson",
+            "Marlon Jackson"
+        ]
+    },
+    "06-01": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What is Doug Walker&#039;s YouTube name?",
+        "correct_answer": "The Nostalgia Critic",
+        "incorrect_answers": [
+            "The Angry Video Game Nerd",
+            "AngryJoeShow",
+            "The Cinema Snob"
+        ]
+    },
+    "06-02": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Billy Herrington is from which US state?",
+        "correct_answer": "New York",
+        "incorrect_answers": [
+            "Arizona",
+            "California",
+            "Georgia"
+        ]
+    },
+    "06-03": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What caused Jake Lloyd who played Anakin Skywalker in The Phantom Menace to quit acting?",
+        "correct_answer": "Bullying",
+        "incorrect_answers": [
+            "Criminal Record",
+            "Nomination for Worst Actor",
+            "Racism"
+        ]
+    },
+    "06-04": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Aubrey Graham is better known as",
+        "correct_answer": "Drake",
+        "incorrect_answers": [
+            "Travis Scott",
+            "Lil Wayne",
+            "2 Chainz"
+        ]
+    },
+    "06-05": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Marilyn Monroe was born on July 1, 1926.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "06-06": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",
+        "correct_answer": "The Party",
+        "incorrect_answers": [
+            "The Weather Girls",
+            "The Pussycat Dolls",
+            "The Cheetah Girls"
+        ]
+    },
+    "06-07": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Who was Donald Trump&#039;s first wife?",
+        "correct_answer": "Ivana Zeln&iacute;čkov&aacute;",
+        "incorrect_answers": [
+            "Melania Knauss",
+            "Marla Maples",
+            "Nancy Davis"
+        ]
+    },
+    "06-08": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Who is &quot;James Rolfe&quot; better known as?",
+        "correct_answer": "The Angry Video Game Nerd",
+        "incorrect_answers": [
+            "TotalBiscuit",
+            "PeanutButterGamer",
+            "PewDiePie"
+        ]
+    },
+    "06-09": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "The eccentric natural philosopher Tycho Brahe kept what as a pet?",
+        "correct_answer": "Moose",
+        "incorrect_answers": [
+            "Dog",
+            "Bear",
+            "Goat"
+        ]
+    },
+    "06-10": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which TV chef wrote an autobiography titled &quot;Humble Pie&quot;?",
+        "correct_answer": "Gordon Ramsay",
+        "incorrect_answers": [
+            "Jamie Oliver",
+            "Ainsley Harriott",
+            "Antony Worrall Thompson"
+        ]
+    },
+    "06-11": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "What was the cause of Marilyn Monroes suicide?",
+        "correct_answer": "Drug Overdose",
+        "incorrect_answers": [
+            "Knife Attack",
+            "House Fire",
+            "Gunshot"
+        ]
+    },
+    "06-12": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "What was James Coburn&#039;s last film role before his death?",
+        "correct_answer": "American Gun",
+        "incorrect_answers": [
+            "Monsters Inc",
+            "Texas Rangers",
+            "Snow Dogs"
+        ]
+    },
+    "06-13": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+        "correct_answer": "Bing Crosby",
+        "incorrect_answers": [
+            "Elvis Presley",
+            "Charlie Chaplin",
+            "Groucho Marx"
+        ]
+    },
+    "06-14": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What year did radio icon Howard Stern start a job at radio station WNBC?",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+            "1985",
+            "1984",
+            "1995"
+        ]
+    },
+    "06-15": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Nikki Diamond portrayed which Gladiator in the 1992 TV show &quot;Gladiators&quot;?",
+        "correct_answer": "Scorpio",
+        "incorrect_answers": [
+            "Jet",
+            "Nightshade",
+            "Falcon"
+        ]
+    },
+    "06-16": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Gwyneth Paltrow has a daughter named...?",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+            "Lily",
+            "French",
+            "Dakota"
+        ]
+    },
+    "06-17": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What is the real name of &quot;moot&quot;, founder of the imageboard 4chan?",
+        "correct_answer": "Christopher Poole",
+        "incorrect_answers": [
+            "Mark Zuckerberg",
+            "Allison Harvard",
+            "Catie Wayne"
+        ]
+    },
+    "06-18": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "In 2014, this new top 100 rapper who featured in &quot;Computers&quot; and &quot;Body Dance&quot; was arrested in a NYPD sting for murder.",
+        "correct_answer": "Bobby Shmurda",
+        "incorrect_answers": [
+            "DJ Snake",
+            "Swae Lee",
+            "Young Thug"
+        ]
+    },
+    "06-19": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which famous New York Yankees outfielder did Marilyn Monroe marry?",
+        "correct_answer": "Joe DiMaggio",
+        "incorrect_answers": [
+            "Tino Martinez",
+            "Babe Ruth",
+            "Mason Williams"
+        ]
+    },
+    "06-20": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "In what year did &quot;Bob Ross&quot; die?",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+            "1986",
+            "1989",
+            "1997"
+        ]
+    },
+    "06-21": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Named after a character he played in a 1969 film, what is the name of the ski resort in Utah that Robert Redford bought in 1968?",
+        "correct_answer": "Sundance",
+        "incorrect_answers": [
+            "Woodward",
+            "Turner",
+            "Booker"
+        ]
+    },
+    "06-22": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "What does film maker Dan Bell typically focus his films on?",
+        "correct_answer": "Abandoned Buildings and Dead Malls",
+        "incorrect_answers": [
+            "Historic Landmarks",
+            "Action Films",
+            "Documentaries "
+        ]
+    },
+    "06-23": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "By what name is Carlos Estevez better known? ",
+        "correct_answer": "Charlie Sheen",
+        "incorrect_answers": [
+            "Ricky Martin",
+            "Bruno Mars",
+            "Joaquin Phoenix"
+        ]
+    },
+    "06-24": {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Lady Gaga&#039;s real name is Stefani Joanne Angelina Germanotta.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "06-25": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Neil Hamburger is played by which comedian?",
+        "correct_answer": "Gregg Turkington",
+        "incorrect_answers": [
+            "Nathan Fielder",
+            "Tim Heidecker",
+            "Todd Glass"
+        ]
+    },
+    "06-26": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Donald J. Trump&#039;s Middle Name is...",
+        "correct_answer": "John",
+        "incorrect_answers": [
+            "Jeff",
+            "Jerald",
+            "Jason"
+        ]
+    },
+    "06-27": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "If he was still alive, in what year would Elvis Presley celebrate his 100th birthday?",
+        "correct_answer": "2035",
+        "incorrect_answers": [
+            "2030",
+            "2040",
+            "2045"
+        ]
+    },
+    "06-28": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "How tall is Tom Cruise?",
+        "correct_answer": "5&prime; 7&Prime;",
+        "incorrect_answers": [
+            "5&prime; 9&Prime;",
+            "5&prime; 4&Prime;",
+            "5&prime; 5&Prime;"
+        ]
+    },
+    "06-29": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which actress&#039;s real name was Frances Ethel Gumm?",
+        "correct_answer": "Judy Garland",
+        "incorrect_answers": [
+            "Doris Day",
+            "Julie Andrews",
+            "Marilyn Monroe"
+        ]
+    },
+    "06-30": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "How old was Muhammad Ali when he died?",
+        "correct_answer": "74",
+        "incorrect_answers": [
+            "61",
+            "He&#039;s still alive",
+            "56"
+        ]
+    },
+    "07-01": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Michael Jackson had a pet python named &lsquo;Crusher&rsquo;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "07-02": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Gabe Newell was born in which year?",
+        "correct_answer": "1962 ",
+        "incorrect_answers": [
+            "1970",
+            "1960",
+            "1972"
+        ]
+    },
+    "07-03": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Who out of these actresses is the youngest?",
+        "correct_answer": "Kiernan Shipka",
+        "incorrect_answers": [
+            "Ariel Winter",
+            "Emma Watson",
+            "Bonnie Wright"
+        ]
+    },
+    "07-04": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What was the cause of death for Freddie Mercury?",
+        "correct_answer": "Pneumonia",
+        "incorrect_answers": [
+            "Stomach Cancer",
+            "HIV",
+            "Brain Hemorrhage"
+        ]
+    },
+    "07-05": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Where was Kanye West born?",
+        "correct_answer": "Atlanta, Georgia",
+        "incorrect_answers": [
+            "Chicago, Illinois",
+            "Los Angeles, California",
+            "Detroit, Michigan"
+        ]
+    },
+    "07-06": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "What was the religion of famous singer &quot;Freddie Mercury&quot;?",
+        "correct_answer": "Zoroastrianism",
+        "incorrect_answers": [
+            "Paganism",
+            "Ashurism",
+            "Judaism"
+        ]
+    },
+    "07-07": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "When was Elvis Presley born?",
+        "correct_answer": "January 8, 1935",
+        "incorrect_answers": [
+            "December 13, 1931",
+            "July 18, 1940",
+            "April 17, 1938"
+        ]
+    },
+    "07-08": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What year was O.J. Simpson aquitted of his murder charges?",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+            "1992",
+            "1996",
+            "1991"
+        ]
+    },
+    "07-09": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Which actress married Michael Douglas in 2000?",
+        "correct_answer": "Catherine Zeta-Jones",
+        "incorrect_answers": [
+            "Ruth Jones",
+            "Pam Ferris",
+            "Sara Sugarman"
+        ]
+    },
+    "07-10": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Which school in Surrey, England did Steve Backshall attend?",
+        "correct_answer": "Collingwood College",
+        "incorrect_answers": [
+            "Tomlinscote School",
+            "Kings International College",
+            "Lyndhurst School"
+        ]
+    },
+    "07-11": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which radio personality calls himself &quot;The King of All Media&quot;?",
+        "correct_answer": "Howard Stern",
+        "incorrect_answers": [
+            "Rush Limbaugh",
+            "Pete Tong",
+            "Ryan Seacrest"
+        ]
+    },
+    "07-12": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What was the name of Marilyn Monroe&#039;s first husband?",
+        "correct_answer": "James Dougherty",
+        "incorrect_answers": [
+            "Joe Dimaggio",
+            "Kirk Douglas",
+            "Arthur Miller"
+        ]
+    },
+    "07-13": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Tupac Shakur died due to complications from being stabbed in 1996.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "07-14": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "In which of these TV shows did the chef Gordon Ramsay not appear?",
+        "correct_answer": "Auction Hunters",
+        "incorrect_answers": [
+            "Ramsay&#039;s Kitchen Nightmares",
+            "Hotel Hell",
+            "Hell&#039;s Kitchen"
+        ]
+    },
+    "07-15": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Which celebrity announced his presidency in 2015?",
+        "correct_answer": "Kanye West",
+        "incorrect_answers": [
+            "Donald Trump",
+            "Leonardo DiCaprio",
+            "Miley Cyrus"
+        ]
+    },
+    "07-16": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Paul McCartney has always used his middle name. What is his real first name? ",
+        "correct_answer": "James",
+        "incorrect_answers": [
+            "John",
+            "Jack",
+            "Justin"
+        ]
+    },
+    "07-17": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What is generally considered to be William Shakespeare&#039;s birth date?",
+        "correct_answer": "April 23rd, 1564",
+        "incorrect_answers": [
+            "July 4th, 1409",
+            "September 29th, 1699",
+            "December 1st, 1750"
+        ]
+    },
+    "07-18": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which of these people is NOT a part of the Internet comedy group Mega64?",
+        "correct_answer": "Jon Jafari",
+        "incorrect_answers": [
+            "Rocco Botte",
+            "Derrick Acosta",
+            "Shawn Chatfield"
+        ]
+    },
+    "07-19": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which of the following countries was not an axis power during World War II?",
+        "correct_answer": " Soviet Union",
+        "incorrect_answers": [
+            "Italy",
+            "Germany",
+            "Japan"
+        ]
+    },
+    "07-20": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "When was Google founded?",
+        "correct_answer": "September 4, 1998",
+        "incorrect_answers": [
+            "October 9, 1997",
+            "December 12, 1989",
+            "Feburary 7th, 2000"
+        ]
+    },
+    "07-21": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+        "correct_answer": "The Polish President",
+        "incorrect_answers": [
+            "Pope John Paul II",
+            "Bang-Ding Ow",
+            "Albert Putin"
+        ]
+    },
+    "07-22": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who led the Communist Revolution of Russia?",
+        "correct_answer": "Vladimir Lenin",
+        "incorrect_answers": [
+            "Joseph Stalin",
+            "Vladimir Putin",
+            "Mikhail Gorbachev"
+        ]
+    },
+    "07-23": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Abolitionist John Brown raided the arsenal in which Virginia Town?",
+        "correct_answer": "Harper&#039;s Ferry",
+        "incorrect_answers": [
+            "Richmond",
+            "Harrisonburg",
+            "Martinsburg"
+        ]
+    },
+    "07-24": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+        "correct_answer": "Silk Road",
+        "incorrect_answers": [
+            "Spice Road",
+            "Clay Road",
+            "Salt Road"
+        ]
+    },
+    "07-25": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which of the following was Brazil was a former colony under?",
+        "correct_answer": "Portugal",
+        "incorrect_answers": [
+            "Spain",
+            "The Netherlands",
+            "France"
+        ]
+    },
+    "07-26": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The Cold War ended with Joseph Stalin&#039;s death.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "07-27": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "These two countries held a commonwealth from the 16th to 18th century.",
+        "correct_answer": "Poland and Lithuania",
+        "incorrect_answers": [
+            "Hutu and Rwanda",
+            "North Korea and South Korea",
+            "Bangladesh and Bhutan"
+        ]
+    },
+    "07-28": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The United States was a member of the League of Nations.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "07-29": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+        "correct_answer": "Marie Antoinette",
+        "incorrect_answers": [
+            "Czar Nicholas II",
+            "Elizabeth I",
+            "Henry VIII"
+        ]
+    },
+    "07-30": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who rode on horseback to warn the Minutemen that the British were coming during the U.S. Revolutionary War?",
+        "correct_answer": "Paul Revere",
+        "incorrect_answers": [
+            "Thomas Paine",
+            "Henry Longfellow",
+            "Nathan Hale"
+        ]
+    },
+    "07-31": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In World War ll, Great Britian used inflatable tanks on the ports of Great Britain to divert Hitler away from Normandy/D-day landing.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "08-01": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In 1720, England was in massive debt and became involved in the South Sea Bubble. Who was the main mastermind behind it?",
+        "correct_answer": "John Blunt",
+        "incorrect_answers": [
+            "Daniel Defoe",
+            "Robert Harley",
+            "John Churchill"
+        ]
+    },
+    "08-02": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which of these countries remained neutral during World War II?",
+        "correct_answer": "Switzerland",
+        "incorrect_answers": [
+            "United Kingdom",
+            "France",
+            "Italy"
+        ]
+    },
+    "08-03": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The United States of America was the first country to launch a man into space.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "08-04": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which of the following African countries was most successful in resisting colonization?",
+        "correct_answer": "Ethiopia",
+        "incorrect_answers": [
+            "C&ocirc;te d&rsquo;Ivoire",
+            "Congo",
+            "Namibia"
+        ]
+    },
+    "08-05": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In what year was the M1911 pistol designed?",
+        "correct_answer": "1911",
+        "incorrect_answers": [
+            "1907",
+            "1899",
+            "1917"
+        ]
+    },
+    "08-06": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "When did the Battle of the Somme begin?",
+        "correct_answer": "July 1st, 1916",
+        "incorrect_answers": [
+            "August 1st, 1916",
+            "July 2nd, 1916",
+            "June 30th, 1916"
+        ]
+    },
+    "08-07": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The French Kingdom helped the United States gain their independence over Great Britain during the Revolutionary War.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "08-08": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "United States President John F. Kennedy was assassinated during his presidential motorcade in Atlanta, Georgia on November 22nd, 1963.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "08-09": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who was the first prime minister of Canada?",
+        "correct_answer": "John Macdonald",
+        "incorrect_answers": [
+            "John Abbott",
+            "Alexander Mackenzie",
+            "Robert Borden"
+        ]
+    },
+    "08-10": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The idea of Socialism was articulated and advanced by whom?",
+        "correct_answer": "Karl Marx",
+        "incorrect_answers": [
+            "Vladimir Lenin",
+            "Joseph Stalin",
+            "Vladimir Putin"
+        ]
+    },
+    "08-11": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What country joined the EU in 2013?",
+        "correct_answer": "Croatia",
+        "incorrect_answers": [
+            "Bulgaria",
+            "Slovenia",
+            "Turkey"
+        ]
+    },
+    "08-12": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Adolf Hitler was tried at the Nuremberg trials.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "08-13": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The United States of America declared their independence from the British Empire on July 4th, 1776.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "08-14": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which country was Josef Stalin born in?",
+        "correct_answer": "Georgia",
+        "incorrect_answers": [
+            "Russia",
+            "Germany",
+            "Poland"
+        ]
+    },
+    "08-15": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+        "correct_answer": "1990",
+        "incorrect_answers": [
+            "1992",
+            "1988",
+            "1986"
+        ]
+    },
+    "08-16": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Thomas Crapper was a plumber who invented the flushing toilet.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "08-17": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which one of these tanks was designed and operated by the United Kingdom?",
+        "correct_answer": "Tog II",
+        "incorrect_answers": [
+            "M4 Sherman",
+            "Tiger H1",
+            "T-34"
+        ]
+    },
+    "08-18": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The collapse of the Soviet Union took place in which year?",
+        "correct_answer": "1991",
+        "incorrect_answers": [
+            "1992",
+            "1891",
+            "1990"
+        ]
+    },
+    "08-19": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+        "correct_answer": "Silver",
+        "incorrect_answers": [
+            "Gold",
+            "Juno",
+            "Sword"
+        ]
+    },
+    "08-20": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The Spitfire originated from a racing plane.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "08-21": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The original Roman alphabet lacked the following letters EXCEPT:",
+        "correct_answer": "X",
+        "incorrect_answers": [
+            "W",
+            "U",
+            "J"
+        ]
+    },
+    "08-22": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which modern day country is the region that was known as Phrygia in ancient times?",
+        "correct_answer": "Turkey",
+        "incorrect_answers": [
+            "Syria",
+            "Greece",
+            "Egypt"
+        ]
+    },
+    "08-23": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who was the first American in space?",
+        "correct_answer": "Alan Shephard",
+        "incorrect_answers": [
+            "Neil Armstrong",
+            "John Glenn",
+            "Jim Lovell"
+        ]
+    },
+    "08-24": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "To what political party did Abraham Lincoln belong when elected POTUS?",
+        "correct_answer": "Republican",
+        "incorrect_answers": [
+            "Democrat",
+            "Independent",
+            "Whig"
+        ]
+    },
+    "08-25": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How long did World War II last?",
+        "correct_answer": "6 years",
+        "incorrect_answers": [
+            "4 years",
+            "5 years",
+            "7 years"
+        ]
+    },
+    "08-26": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What does the United States of America celebrate during the 4th of July?",
+        "correct_answer": "The signing of the Declaration of Independence",
+        "incorrect_answers": [
+            "The anniversary of the Battle of Gettysburg",
+            "The crossing of the Delaware River",
+            "The ratification of the Constitution"
+        ]
+    },
+    "08-27": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which German field marshal was known as the `Desert Fox`?",
+        "correct_answer": "Erwin Rommel",
+        "incorrect_answers": [
+            "Ernst Busch",
+            "Wolfram Freiherr von Richthofen",
+            "Wilhelm List"
+        ]
+    },
+    "08-28": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+        "correct_answer": "1721",
+        "incorrect_answers": [
+            "1726",
+            "1727",
+            "1724"
+        ]
+    },
+    "08-29": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Adolf Hitler was a german soldier in World War I.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "08-30": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What was Manfred von Richthofen&#039;s nickname?",
+        "correct_answer": "The Red Baron",
+        "incorrect_answers": [
+            "The High Flying Ace",
+            "The Blue Serpent ",
+            "The Germany Gunner"
+        ]
+    },
+    "08-31": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What is the historical name of Sri Lanka?",
+        "correct_answer": "Ceylon",
+        "incorrect_answers": [
+            "Myanmar",
+            "Colombo",
+            "Badulla"
+        ]
+    },
+    "09-01": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+        "correct_answer": "Hannibal",
+        "incorrect_answers": [
+            "Garmanicus",
+            "Alexander the Great",
+            "Tiberius"
+        ]
+    },
+    "09-02": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Former United States Presidents John Adams and Thomas Jefferson died within hours of each other.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "09-03": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who discovered Penicillin?",
+        "correct_answer": "Alexander Flemming",
+        "incorrect_answers": [
+            "Marie Curie",
+            "Alfred Nobel",
+            "Louis Pasteur"
+        ]
+    },
+    "09-04": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How old was Adolf Hitler when he died?",
+        "correct_answer": "56",
+        "incorrect_answers": [
+            "43",
+            "65",
+            "47"
+        ]
+    },
+    "09-05": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
+        "correct_answer": "Andrew Jackson",
+        "incorrect_answers": [
+            "Harry S. Truman",
+            "Martin Van Buren",
+            "John Quincy Adams"
+        ]
+    },
+    "09-06": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who was the first president of the United States?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "James Madison",
+            "Thomas Jefferson",
+            "James K. Polk"
+        ]
+    },
+    "09-07": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+        "correct_answer": "Pugs",
+        "incorrect_answers": [
+            "Bulldogs",
+            "Boxers",
+            "Chihuahua"
+        ]
+    },
+    "09-08": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What is the scientific name of the Budgerigar?",
+        "correct_answer": "Melopsittacus undulatus",
+        "incorrect_answers": [
+            "Nymphicus hollandicus",
+            "Pyrrhura molinae",
+            "Ara macao"
+        ]
+    },
+    "09-09": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+        "correct_answer": "Mad Cow disease",
+        "incorrect_answers": [
+            "Weil&#039;s disease",
+            "Milk fever",
+            "Foot-and-mouth disease"
+        ]
+    },
+    "09-10": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Finnish Lapphund dogs were used for herding reindeer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "09-11": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What is the collective noun for a group of crows?",
+        "correct_answer": "Murder",
+        "incorrect_answers": [
+            "Pack",
+            "Gaggle",
+            "Herd"
+        ]
+    },
+    "09-12": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+        "correct_answer": "Ursus Maritimus",
+        "incorrect_answers": [
+            "Polar Bear",
+            "Ursus Spelaeus",
+            "Ursus Arctos"
+        ]
+    },
+    "09-13": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+        "correct_answer": "River Horse (Greek)",
+        "incorrect_answers": [
+            "River Horse (Latin)",
+            "Fat Pig (Greek)",
+            "Fat Pig (Latin)"
+        ]
+    },
+    "09-14": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+            "South Africa",
+            "Australia",
+            "Madagascar"
+        ]
+    },
+    "09-15": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What type of creature is a Bonobo?",
+        "correct_answer": "Ape",
+        "incorrect_answers": [
+            "Lion",
+            "Parrot",
+            "Wildcat"
+        ]
+    },
+    "09-16": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What is the scientific name for modern day humans?",
+        "correct_answer": "Homo Sapiens",
+        "incorrect_answers": [
+            "Homo Ergaster",
+            "Homo Erectus",
+            "Homo Neanderthalensis"
+        ]
+    },
+    "09-17": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which species of Brown Bear is not extinct?",
+        "correct_answer": "Syrian Brown Bear",
+        "incorrect_answers": [
+            "California Grizzly Bear",
+            "Atlas Bear",
+            "Mexican Grizzly Bear"
+        ]
+    },
+    "09-18": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+        "correct_answer": "Simien Jackel",
+        "incorrect_answers": [
+            "Ethiopian Coyote",
+            "Amharic Fox",
+            "Canis Simiensis"
+        ]
+    },
+    "09-19": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What bird is born with claws on its wing digits?",
+        "correct_answer": "Hoatzin",
+        "incorrect_answers": [
+            "Cormorant",
+            "Cassowary",
+            "Secretary bird"
+        ]
+    },
+    "09-20": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Cats have whiskers under their legs.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "09-21": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+        "correct_answer": "Gooty",
+        "incorrect_answers": [
+            "Hopper",
+            "Silver Stripe",
+            "Woebegone"
+        ]
+    },
+    "09-22": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The Ceratosaurus, a dinosaur known for having a horn on the top of its nose, is also known to be a decendent of the Tyrannosaurus Rex.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "09-23": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The Axolotl is an amphibian that can spend its whole life in a larval state.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "09-24": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the world&#039;s longest venomous snake?",
+        "correct_answer": "King Cobra",
+        "incorrect_answers": [
+            "Green Anaconda",
+            "Inland Taipan",
+            "Yellow Bellied Sea Snake"
+        ]
+    },
+    "09-25": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which of these is a colony of polyps and not a jellyfish?",
+        "correct_answer": "Portuguese Man-of-War",
+        "incorrect_answers": [
+            "Sea Wasp",
+            "Irukandji",
+            "Sea Nettle"
+        ]
+    },
+    "09-26": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The freshwater amphibian, the Axolotl, can regrow it&#039;s limbs.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "09-27": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Rabbits are rodents.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "09-28": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which animal was part of an Russian domestication experiment in 1959?",
+        "correct_answer": "Foxes",
+        "incorrect_answers": [
+            "Pigeons",
+            "Bears",
+            "Alligators"
+        ]
+    },
+    "09-29": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+        "correct_answer": "Chordata",
+        "incorrect_answers": [
+            "Echinodermata",
+            "Annelida",
+            "Placazoa"
+        ]
+    },
+    "09-30": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Rabbits can see what&#039;s behind themselves without turning their heads.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "10-01": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A bear does NOT defecate during hibernation. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "10-02": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The dish Fugu, is made from what family of fish?",
+        "correct_answer": "Pufferfish",
+        "incorrect_answers": [
+            "Bass",
+            "Salmon",
+            "Mackerel"
+        ]
+    },
+    "10-03": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The Killer Whale is considered a type of dolphin.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "10-04": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Which class of animals are newts members of?",
+        "correct_answer": "Amphibian",
+        "incorrect_answers": [
+            "Fish",
+            "Reptiles",
+            "Mammals"
+        ]
+    },
+    "10-05": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "&quot;Kamea,&quot; the Gilbertese Islander word for dog, is derived from the English phrase &quot;Come here!&quot;",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "10-06": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What are rhino&#039;s horn made of?",
+        "correct_answer": "Keratin",
+        "incorrect_answers": [
+            "Bone",
+            "Ivory",
+            "Skin"
+        ]
+    },
+    "10-07": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the name for a male bee that comes from an unfertilized egg?",
+        "correct_answer": "Drone",
+        "incorrect_answers": [
+            "Soldier",
+            "Worker",
+            "Male"
+        ]
+    },
+    "10-08": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which species is a &quot;mountain chicken&quot;?",
+        "correct_answer": "Frog",
+        "incorrect_answers": [
+            "Chicken",
+            "Horse",
+            "Fly"
+        ]
+    },
+    "10-09": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What color/colour is a polar bear&#039;s skin?",
+        "correct_answer": "Black",
+        "incorrect_answers": [
+            "White",
+            "Pink",
+            "Green"
+        ]
+    },
+    "10-10": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+        "correct_answer": "Tasmania, Australia",
+        "incorrect_answers": [
+            "Baluchistan, Pakistan",
+            "Wallachia, Romania",
+            "Oregon, United States"
+        ]
+    },
+    "10-11": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the collective noun for bears?",
+        "correct_answer": "Sloth",
+        "incorrect_answers": [
+            "Drove",
+            "Tribe",
+            "Husk"
+        ]
+    },
+    "10-12": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "10-13": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+        "correct_answer": "Hemocyanin",
+        "incorrect_answers": [
+            "Cytochrome",
+            "Iron",
+            "Methionine"
+        ]
+    },
+    "10-14": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "How many teeth does an adult rabbit have?",
+        "correct_answer": "28",
+        "incorrect_answers": [
+            "30",
+            "26",
+            "24"
+        ]
+    },
+    "10-15": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What is the Gray Wolf&#039;s scientific name?",
+        "correct_answer": "Canis Lupus",
+        "incorrect_answers": [
+            "Canis Aureus",
+            "Canis Latrans",
+            "Canis Lupus Lycaon"
+        ]
+    },
+    "10-16": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What do you call a baby bat?",
+        "correct_answer": "Pup",
+        "incorrect_answers": [
+            "Cub",
+            "Chick",
+            "Kid"
+        ]
+    },
+    "10-17": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What is the name of a rabbit&#039;s abode?",
+        "correct_answer": "Burrow",
+        "incorrect_answers": [
+            "Nest",
+            "Den",
+            "Dray"
+        ]
+    },
+    "10-18": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What type of animal is a natterjack?",
+        "correct_answer": "Toad",
+        "incorrect_answers": [
+            "Bird",
+            "Fish",
+            "Insect"
+        ]
+    },
+    "10-19": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A slug&rsquo;s blood is green.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "10-20": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "By definition, where does an abyssopelagic animal live?",
+        "correct_answer": "At the bottom of the ocean",
+        "incorrect_answers": [
+            "In the desert",
+            "On top of a mountain",
+            "Inside a tree"
+        ]
+    },
+    "10-21": {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Unlike on most salamanders, this part of a newt is flat?",
+        "correct_answer": "Tail",
+        "incorrect_answers": [
+            "Head",
+            "Teeth",
+            "Feet"
+        ]
+    },
+    "10-22": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Hippocampus is the Latin name for which marine creature?",
+        "correct_answer": "Seahorse",
+        "incorrect_answers": [
+            "Dolphin",
+            "Whale",
+            "Octopus"
+        ]
+    },
+    "10-23": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The Platypus is a mammal.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "10-24": {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the collective noun for rats?",
+        "correct_answer": "Mischief",
+        "incorrect_answers": [
+            "Pack",
+            "Race",
+            "Drift"
+        ]
+    },
+    "10-25": {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Tigers have one colour of skin despite the stripey fur.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "10-26": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A caterpillar has more muscles than humans do.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "10-27": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which country has the union jack in its flag?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+            "South Africa",
+            "Canada",
+            "Hong Kong"
+        ]
+    },
+    "10-28": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the nickname of the US state of California?",
+        "correct_answer": "Golden State",
+        "incorrect_answers": [
+            "Sunshine State",
+            "Bay State",
+            "Treasure State"
+        ]
+    },
+    "10-29": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the closest planet to our solar system&#039;s sun?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+            "Mars",
+            "Jupiter",
+            "Earth"
+        ]
+    },
+    "10-30": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What company developed the vocaloid Hatsune Miku?",
+        "correct_answer": "Crypton Future Media",
+        "incorrect_answers": [
+            "Sega",
+            "Sony",
+            "Yamaha Corporation"
+        ]
+    },
+    "10-31": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Area 51 is located in which US state?",
+        "correct_answer": "Nevada",
+        "incorrect_answers": [
+            "Arizona",
+            "New Mexico",
+            "Utah"
+        ]
+    },
+    "11-01": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which candy is NOT made by Mars?",
+        "correct_answer": "Almond Joy",
+        "incorrect_answers": [
+            "M&amp;M&#039;s",
+            "Twix",
+            "Snickers"
+        ]
+    },
+    "11-02": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+        "correct_answer": "Truth",
+        "incorrect_answers": [
+            "Answer",
+            "Cause",
+            "Source"
+        ]
+    },
+    "11-03": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When someone is cowardly, they are said to have what color belly?",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+            "Green",
+            "Red",
+            "Blue"
+        ]
+    },
+    "11-04": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+        "correct_answer": "Slacking",
+        "incorrect_answers": [
+            "Smoking",
+            "Stealing",
+            "Cheating"
+        ]
+    },
+    "11-05": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the French word for &quot;hat&quot;?",
+        "correct_answer": "Chapeau",
+        "incorrect_answers": [
+            "Bonnet",
+            " &Eacute;charpe",
+            " Casque"
+        ]
+    },
+    "11-06": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Adolf Hitler was born in Australia. ",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "11-07": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Who is the youngest person to recieve a Nobel Prize?",
+        "correct_answer": "Malala Yousafzai",
+        "incorrect_answers": [
+            "Lawrence Bragg",
+            "Werner Heisenberg",
+            "Yasser Arafat"
+        ]
+    },
+    "11-08": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+        "correct_answer": "Wax sculptures",
+        "incorrect_answers": [
+            "Designer clothing",
+            "Unreleased film reels",
+            "Vintage cars"
+        ]
+    },
+    "11-09": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Pluto is a planet.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "11-10": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Vietnam&#039;s national flag is a red star in front of a yellow background.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "11-11": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+        "correct_answer": "Model",
+        "incorrect_answers": [
+            "Professor",
+            "Biologist",
+            "Musician"
+        ]
+    },
+    "11-12": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+        "correct_answer": "Gorilla",
+        "incorrect_answers": [
+            "Tiger",
+            "Panda",
+            "Crocodile"
+        ]
+    },
+    "11-13": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+        "correct_answer": "Plum",
+        "incorrect_answers": [
+            "Apple",
+            "Peach",
+            "Pear"
+        ]
+    },
+    "11-14": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the first book of the Old Testament?",
+        "correct_answer": "Genesis",
+        "incorrect_answers": [
+            "Exodus",
+            "Leviticus",
+            "Numbers"
+        ]
+    },
+    "11-15": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+        "correct_answer": "Demolition",
+        "incorrect_answers": [
+            "The Dream Team",
+            "The Bushwhackers",
+            "The British Bulldogs"
+        ]
+    },
+    "11-16": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+        "correct_answer": "Thomas Jefferson",
+        "incorrect_answers": [
+            "Martin Van Buren",
+            "Ulysses Grant",
+            "John Quincy Adams"
+        ]
+    },
+    "11-17": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In aerodynamics, which force pushes an object upwards?",
+        "correct_answer": "Lift",
+        "incorrect_answers": [
+            "Drag",
+            "Weight",
+            "Thrust"
+        ]
+    },
+    "11-18": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+        "correct_answer": "Hubble Space Telescope",
+        "incorrect_answers": [
+            "Big Eye",
+            "Death Star",
+            "Millenium Falcon"
+        ]
+    },
+    "11-19": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "11-20": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "11-21": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What does VR stand for?",
+        "correct_answer": "Virtual Reality",
+        "incorrect_answers": [
+            "Very Real",
+            "Visual Recognition",
+            "Voice Recognition"
+        ]
+    },
+    "11-22": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Waluigi&#039;s first appearance was in what game?",
+        "correct_answer": "Mario Tennis 64 (N64)",
+        "incorrect_answers": [
+            "Wario Land: Super Mario Land 3",
+            "Mario Party (N64)",
+            "Super Smash Bros. Ultimate"
+        ]
+    },
+    "11-23": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the official language of Brazil?",
+        "correct_answer": "Portugese",
+        "incorrect_answers": [
+            "Brazilian",
+            "Spanish",
+            "English"
+        ]
+    },
+    "11-24": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which company did Valve cooperate with in the creation of the Vive?",
+        "correct_answer": "HTC",
+        "incorrect_answers": [
+            "Oculus",
+            "Google",
+            "Razer"
+        ]
+    },
+    "11-25": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of the company in Lethal Company?",
+        "correct_answer": "The Company",
+        "incorrect_answers": [
+            "Planet Scrap Co.",
+            "Lethal Robotics",
+            "Gordian Shipping Co."
+        ]
+    },
+    "11-26": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+        "correct_answer": "Print",
+        "incorrect_answers": [
+            "Digest",
+            "Look",
+            "Read"
+        ]
+    },
+    "11-27": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the following is not the host of a program on NPR?",
+        "correct_answer": "Ben Shapiro",
+        "incorrect_answers": [
+            "Terry Gross",
+            "Ira Glass",
+            "Peter Sagal"
+        ]
+    },
+    "11-28": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+        "correct_answer": "Tango",
+        "incorrect_answers": [
+            "Target",
+            "Taxi",
+            "Turkey"
+        ]
+    },
+    "11-29": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What do the letters in the GMT time zone stand for?",
+        "correct_answer": "Greenwich Mean Time",
+        "incorrect_answers": [
+            "Global Meridian Time",
+            "General Median Time",
+            "Glasgow Man Time"
+        ]
+    },
+    "11-30": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+        "correct_answer": "Key",
+        "incorrect_answers": [
+            "Sword",
+            "Pen",
+            "Cellphone"
+        ]
+    },
+    "12-01": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
+        "correct_answer": "Cube",
+        "incorrect_answers": [
+            "Sphere",
+            "Cylinder",
+            "Pyramid"
+        ]
+    },
+    "12-02": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "On average, at least 1 person is killed by a drunk driver in the United States every hour.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "12-03": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is &quot;dabbing&quot;?",
+        "correct_answer": "A dance",
+        "incorrect_answers": [
+            "A medical procedure",
+            "A sport",
+            "A language"
+        ]
+    },
+    "12-04": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "How many colors are there in a rainbow?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    "12-05": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The Lego Group was founded in 1932.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "12-06": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Red Vines is a brand of what type of candy?",
+        "correct_answer": "Licorice",
+        "incorrect_answers": [
+            "Lollipop",
+            "Chocolate",
+            "Bubblegum"
+        ]
+    },
+    "12-07": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which one of the following rhythm games was made by Harmonix?",
+        "correct_answer": "Rock Band",
+        "incorrect_answers": [
+            "Meat Beat Mania",
+            "Guitar Hero Live",
+            "Dance Dance Revolution"
+        ]
+    },
+    "12-08": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When you cry in space, your tears stick to your face.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "12-09": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The Flag of the European Union has how many stars on it?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "10",
+            "14",
+            "16"
+        ]
+    },
+    "12-10": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Who is the author of Jurrasic Park?",
+        "correct_answer": "Michael Crichton",
+        "incorrect_answers": [
+            "Peter Benchley",
+            "Chuck Paluhniuk",
+            "Irvine Welsh"
+        ]
+    },
+    "12-11": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When someone is inexperienced they are said to be what color?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Red",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    "12-12": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the French word for &quot;fish&quot;?",
+        "correct_answer": "poisson",
+        "incorrect_answers": [
+            "fiche",
+            "escargot",
+            "mer"
+        ]
+    },
+    "12-13": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which restaurant&#039;s mascot is a clown?",
+        "correct_answer": "McDonald&#039;s",
+        "incorrect_answers": [
+            "Whataburger",
+            "Burger King",
+            "Sonic"
+        ]
+    },
+    "12-14": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+        "correct_answer": "Spruce Goose",
+        "incorrect_answers": [
+            "Noah&#039;s Ark",
+            "Fat Man",
+            "Trojan Horse"
+        ]
+    },
+    "12-15": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What geometric shape is generally used for stop signs?",
+        "correct_answer": "Octagon",
+        "incorrect_answers": [
+            "Hexagon",
+            "Circle",
+            "Triangle"
+        ]
+    },
+    "12-16": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "How would one say goodbye in Spanish?",
+        "correct_answer": "Adi&oacute;s",
+        "incorrect_answers": [
+            " Hola",
+            "Au Revoir",
+            "Salir"
+        ]
+    },
+    "12-17": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the famous Papa John&#039;s last name?",
+        "correct_answer": "Schnatter",
+        "incorrect_answers": [
+            "Chowder",
+            "Williams",
+            "ANDERSON"
+        ]
+    },
+    "12-18": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+        "correct_answer": "Helicopter",
+        "incorrect_answers": [
+            "Stealth Blimp",
+            "Jet",
+            "Space Capsule"
+        ]
+    },
+    "12-19": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "correct_answer": "Watch",
+        "incorrect_answers": [
+            "Money",
+            "Keys",
+            "Notebook"
+        ]
+    },
+    "12-20": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What does VR stand for?",
+        "correct_answer": "Virtual Reality",
+        "incorrect_answers": [
+            "Very Real",
+            "Visual Recognition",
+            "Voice Recognition"
+        ]
+    },
+    "12-21": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In Half-Life, what is the name of the alien that attaches to heads?",
+        "correct_answer": "Headcrab",
+        "incorrect_answers": [
+            "Bullsquid",
+            "Vortigaunt",
+            "Facehugger"
+        ]
+    },
+    "12-22": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "You can legally drink alcohol while driving in Mississippi.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    "12-23": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What zodiac sign is represented by a pair of scales?",
+        "correct_answer": "Libra",
+        "incorrect_answers": [
+            "Aries",
+            "Capricorn",
+            "Sagittarius"
+        ]
+    },
+    "12-24": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Waluigi&#039;s first appearance was in what game?",
+        "correct_answer": "Mario Tennis 64 (N64)",
+        "incorrect_answers": [
+            "Wario Land: Super Mario Land 3",
+            "Mario Party (N64)",
+            "Super Smash Bros. Ultimate"
+        ]
+    },
+    "12-25": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Adolf Hitler was born in Australia. ",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    "12-26": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "correct_answer": "D. G. Yuengling and Son, Inc",
+        "incorrect_answers": [
+            "Anheuser Busch",
+            "Boston Beer Company",
+            "Miller Coors"
+        ]
+    },
+    "12-27": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which candy is NOT made by Mars?",
+        "correct_answer": "Almond Joy",
+        "incorrect_answers": [
+            "M&amp;M&#039;s",
+            "Twix",
+            "Snickers"
+        ]
+    },
+    "12-28": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Area 51 is located in which US state?",
+        "correct_answer": "Nevada",
+        "incorrect_answers": [
+            "Arizona",
+            "New Mexico",
+            "Utah"
+        ]
+    },
+    "12-29": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When one is &quot;envious&quot;, they are said to be what color?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Red",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    "12-30": {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+        "correct_answer": "Key",
+        "incorrect_answers": [
+            "Sword",
+            "Pen",
+            "Cellphone"
+        ]
+    },
+    "12-31": {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+}

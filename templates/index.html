@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Get personalized riddles based on your birthday! Enter your birth date and receive a custom riddle challenge. Perfect for fun and engaging quizzes.">
+    <meta name="keywords" content="riddles, quizzes, birthday riddles, personal questions, fun challenges">
+    <meta name="author" content="RIDDLES.IO Team">
+    <meta property="og:title" content="RIDDLES.IO - Personalized Riddles">
+    <meta property="og:description" content="Discover personalized riddles based on your birthday. Enter your birth date and solve a custom riddle!">
+    <meta property="og:image" content="https://www.canva.com/design/DAGOlinE9OY/pvrWJOgbs_5ftb692zmeZw/edit?utm_content=DAGOlinE9OY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <meta property="og:url" content="https://www.riddles.io">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="RIDDLES.IO - Personalized Riddles">
+    <meta name="twitter:description" content="Discover personalized riddles based on your birthday. Enter your birth date and solve a custom riddle!">
+    <meta name="twitter:image" content="https://www.canva.com/design/DAGOlinE9OY/pvrWJOgbs_5ftb692zmeZw/edit?utm_content=DAGOlinE9OY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <title>RIDDLES.IO</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Copperplate", "Papyrus", Fantasy;
+            color: white;
+            background: linear-gradient(#1089FF, #F9E400);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        h1, p, h2, #ok {
+            text-align: center;
+            margin: 10px;
+        }
+
+        h1 {
+            font-size: 3vw;
+        }
+
+        p {
+            color: black;
+            font-size: 1.5vw;
+        }
+
+        h2 {
+            color: #6C4E31;
+            font-size: 2vw;
+        }
+
+        #ok {
+            font-size: 16px;
+            padding: 5px;
+            font-size: 0.5vw;
+        }
+
+        /* Media query for laptop screens */
+        @media (min-width: 768px) and (max-width: 1440px) {
+            h1 {
+                font-size: 3.5vw;
+            }
+
+            p {
+                font-size: 2.5vw;
+            }
+
+            h2 {
+                font-size: 3vw;
+            }
+
+            #ok {
+                font-size: 1.5vw;
+            }
+            .flashy{
+                color:red;
+            }
+        }
+
+        /* Media query for screens smaller than 768px */
+        @media (max-width: 768px) {
+            h1, p, h2, #ok {
+                font-size: 4vw;
+            }
+        }
+
+        /* Additional styles */
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        input[type="date"] {
+            padding: 5px;
+            font-size: 2em;
+            margin: 10px;
+        }
+
+        button {
+            background-color: #6C4E31;
+            border: none;
+            color: white;
+            padding: 15px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 1.2em;
+            margin: 10px;
+            cursor: pointer;
+            border-radius :5px;
+
+        }
+
+        button:hover {
+            background-color: #8B6D4F;
+        }
+
+        .flashy{
+            color:red;
+        }
+        .qu{
+            color:Brown;
+        }
+        .u{
+            color:black;
+        }
+    </style>
+</head>
+<body>
+    {% if error %}
+        <h1>Oops! There was an error!</h1>
+        <p class="flashy">{{ error }}</p>
+    {% elif success %}
+        <h1>RIDDLES.IO</h1>
+        <p>Your personal question is below:</p>
+        <p class="qu">{{ question }}</p>
+        <form action="/riddle" method="post">
+            {% for option in options %}
+                <div>
+                    <input type="radio" id="{{ option }}" name="answer" value="{{ option }}">
+                    <label for="{{ option }}">{{ option }}</label>
+                </div>
+            {% endfor %}
+            <input type="hidden" name="correct_answer" value="{{ correct_answer }}">
+            <input type="hidden" name="day_of_birth" value="{{ day_of_birth }}">
+            <input type="hidden" name="month_of_birth" value="{{ month_of_birth }}">
+            <button type="submit">Submit Answer</button>
+        </form>
+        {% if feedback %}
+            <p id="feedback" class="{{ feedback_class }}">{{ feedback }}</p>
+        {% endif %}
+    {% else %}
+        <h1>RIDDLES.IO</h1>
+        <p>Hey you 🫵! Do you want your own personal Question/Riddle!!!</p>
+        <h2>Enter Your Birthday Here ⬇ ⬇ ⬇</h2>
+        {% for message in get_flashed_messages() %}
+            <p class="flashy">{{ message }}</p>
+        {% endfor %}
+        <form action="/" method="post">
+            <label>Day</label>
+            <input type="number" placeholder="dd" name="day_of_birth">
+            <label>Month</label>
+            <input type="number" placeholder="mm" name="month_of_birth">
+            <button type="submit">Enter</button>
+        </form>
+        <script>
+            document.getElementById('birth-form').addEventListener('submit', function(event) {
+                var day = document.getElementById('day_of_birth').value;
+                var month = document.getElementById('month_of_birth').value;
+
+                if (!day || !month) {
+                    event.preventDefault(); // Prevent form submission
+                    alert("Please enter both day and month.");
+                }
+            });
+        </script>
+    {% endif %}
+</body>
+</html>
