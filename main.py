@@ -4,7 +4,7 @@ import html
 import os
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = os.environ.get('FLASK_KEY')
+app.config['SECRET_KEY'] = os.environ.get('mystrongflaskkey')
 
 # Load and clean the JSON data
 with open('questions_by_date.json', 'r', encoding='utf-8') as file:
