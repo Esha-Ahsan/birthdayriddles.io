@@ -4,12 +4,23 @@ import html
 import os
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = os.environ.get('mystrongflaskkey')
+app.config['SECRET_KEY'] = os.environ.get('FLASK_KEY')
 
-# Load and clean the JSON data
-with open('questions_by_date.json', 'r', encoding='utf-8') as file:
-    questions_by_date = json.load(file)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+json_file_path = os.path.join(BASE_DIR, 'questions_by_date.json')
 
+# Load questions from JSON file
+try:
+    with open(json_file_path, 'r', encoding='utf-8') as file:
+        questions_by_date = json.load(file)
+    print("Data loaded successfully:", questions_by_date)
+except json.JSONDecodeError as e:
+    print(f"Error decoding JSON: {e}")
+except Exception as e:
+    print(f"Error loading JSON: {e}")
+print(f"Loading JSON from: {json_file_path}")
+
+# Clean HTML entities
 def clean_html_entities(data):
     if isinstance(data, dict):
         return {key: clean_html_entities(value) for key, value in data.items()}
@@ -90,5 +101,5 @@ def receive_answer():
 
     return redirect(url_for('hello'))
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)
