@@ -54,6 +54,61 @@
             padding: 5px;
             font-size: 0.5vw;
         }
+        .image-container {
+             position:absolute;
+             top: 20px;
+             left: 20px;
+             padding: 10px;
+             border: 2px solid #FFFFFF;
+             border-radius: 8px;
+             background-color: white;
+             text-align:center;
+        }
+
+        .image-left {
+             max-width: 250px;
+             height: 250px;
+        }
+        .text-link {
+            display: block;
+            color: #0437F2;
+            font-size: 1.2em;
+            text-decoration: none;
+        }
+        .images-container {
+             position:absolute;
+             top: 20px;
+             right: 20px;
+             padding: 10px;
+             border: 2px solid #FFFFFF;
+             border-radius: 8px;
+             background-color: white;
+             text-align:center;
+        }
+        .my_images-container{
+             position:absolute;
+             top: 400px;
+             left: 20px;
+             padding: 10px;
+             border: 2px solid #FFFFFF;
+             border-radius: 8px;
+             background-color: white;
+             text-align:center;
+        }
+        .my_image-container{
+                position:absolute;
+                top: 400px;
+                right: 20px;
+                padding: 10px;
+                border: 2px solid #FFFFFF;
+                border-radius: 8px;
+                background-color: white;
+                text-align:center;
+        }
+
+        .text-link:hover {
+            text-decoration: underline; /* Underline on hover */
+        }
 
         /* Media query for laptop screens */
         @media (min-width: 768px) and (max-width: 1440px) {
@@ -74,6 +129,45 @@
             }
             .flashy{
                 color:red;
+            }
+            .image-container {
+                position:absolute;
+                top: 20px;
+                left: 20px;
+                padding: 10px 10px 120px;
+                text-align:center;
+            }
+
+            .image-left {
+                max-width: 100px;
+                height: auto;
+            }
+            .text-link {
+                display: block;
+                color: #0437F2;
+                font-size: 1.2em;
+                text-decoration: none;
+            }
+            .images-container {
+                position:absolute;
+                top: 20px;
+                right: 20px;
+                padding: 10px 10px 120px;
+                text-align:center;
+            }
+            .my_images-container{
+                position:absolute;
+                top: 400px;
+                left: 20px;
+                padding: 10px 10px 120px;
+                text-align:center;
+            }
+            .my_image-container{
+                position:absolute;
+                top: 400px;
+                right: 20px;
+                padding: 10px 10px 120px;
+                text-align:center;
             }
         }
 
@@ -128,6 +222,23 @@
     </style>
 </head>
 <body>
+    <div class="image-container">
+        <img src="https://m.media-amazon.com/images/I/71lUZJ6ItwL._AC_SX679_.jpg" alt="Cloud Flower Lamp" class="image-left">
+        <a href="https://amzn.to/3ZWwyAy" class="text-link">BUY NOW</a>
+    </div>
+    <div class="images-container">
+        <img src="https://m.media-amazon.com/images/I/61HIWqPxzvL._AC_SX679_.jpg" alt="Sad/Happy Plush Toy" class="image-left">
+        <a href="https://amzn.to/4eFsgSH" class="text-link">BUY NOW</a>
+    </div>
+
+    <div class="my_images-container">
+        <img src="https://m.media-amazon.com/images/I/71pJSnt6sGL._AC_SX679_.jpg" alt="Spider Halloween Decoration" class="image-left">
+        <a href="https://amzn.to/4dG4AMP" class="text-link">BUY NOW</a>
+    </div>
+    <div class="my_image-container">
+        <img src="https://m.media-amazon.com/images/I/61XeAkhWogL._AC_SX679_.jpg" alt="Bats Halloween Decoration" class="image-left">
+        <a href="https://amzn.to/3Nf0j8a" class="text-link">BUY NOW</a>
+    </div>
     {% if error %}
         <h1>Oops! There was an error!</h1>
         <p class="flashy">{{ error }}</p>
@@ -177,4 +288,3 @@
         </script>
     {% endif %}
 </body>
-</html>
